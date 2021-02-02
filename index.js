@@ -5,14 +5,6 @@ const s2i = require('svg2img');
 const fs = require('fs');
 const request = require('request');
 
-
-// let src = 'http://purecatamphetamine.github.io/country-flag-icons/3x2/CV.svg';
-// let svg = request(src, {}, function(error, response, body) {
-//     s2i(body, function(error, buffer) {
-//         fs.writeFileSync('foo3.png', buffer);
-//     });
-// })
-
 let sessions = new Map();
 
 class Player {
@@ -21,6 +13,8 @@ class Player {
         this.score = 0;
     }
 }
+
+console.log(__dirname);
 
 class Session {
     constructor(channelId) {
@@ -176,7 +170,7 @@ client.on('message', message => {
         }
     } else if(command == 'help') {
         message.reply(
-            '\nЧтобы начать игровую сессию на данном канале, введи -flags start.\n\n' +
+            '\nЧтобы начать игровую сессию на данном канале, введи -flags start или, например, -flags start юго-восточная азия (с уточнением региона).\n\n' +
             'Знаешь правильный ответ? Просто введи его на канале с активной сессией. Не знаешь? Пиши -flags skip или дай подумать другим.\n\n' + 
             'Чтобы прекратить сессию и наконец увидеть игровой счет, введи -flags stop\n\n' +
             'В текстовом канале может быть активна только одна сессия'
