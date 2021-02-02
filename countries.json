@@ -1,0 +1,2978 @@
+[
+    {
+        "name": "Австралия",
+        "english": "Australia",
+        "alpha2": "AU",
+        "alpha3": [
+            "AUS"
+        ],
+        "iso": "036",
+        "location": "Океания",
+        "locationPrecise": "Австралия и Новая Зеландия",
+        "fullName": " "
+    },
+    {
+        "name": "Австрия",
+        "english": "Austria",
+        "alpha2": "AT",
+        "alpha3": [
+            "AUT"
+        ],
+        "iso": "040",
+        "location": "Европа",
+        "locationPrecise": "Западная Европа",
+        "fullName": "Австрийская Республика"
+    },
+    {
+        "name": "Азербайджан",
+        "english": "Azerbaijan",
+        "alpha2": "AZ",
+        "alpha3": [
+            "AZE"
+        ],
+        "iso": "031",
+        "location": "Азия",
+        "locationPrecise": "Западная Азия",
+        "fullName": "Республика Азербайджан"
+    },
+    {
+        "name": "Албания",
+        "english": "Albania",
+        "alpha2": "AL",
+        "alpha3": [
+            "ALB"
+        ],
+        "iso": "008",
+        "location": "Европа",
+        "locationPrecise": "Южная Европа",
+        "fullName": "Республика Албания"
+    },
+    {
+        "name": "Алжир",
+        "english": "Algeria",
+        "alpha2": "DZ",
+        "alpha3": [
+            "DZA"
+        ],
+        "iso": "012",
+        "location": "Африка",
+        "locationPrecise": "Северная Африка",
+        "fullName": "Алжирская Народная Демократическая Республика"
+    },
+    {
+        "name": "Американское Самоа",
+        "english": "American Samoa",
+        "alpha2": "AS",
+        "alpha3": [
+            "ASM"
+        ],
+        "iso": "016",
+        "location": "Океания",
+        "locationPrecise": "Полинезия",
+        "fullName": " "
+    },
+    {
+        "name": "Ангилья",
+        "english": "Anguilla",
+        "alpha2": "AI",
+        "alpha3": [
+            "AIA"
+        ],
+        "iso": "660",
+        "location": "Америка",
+        "locationPrecise": "Карибский бассейн",
+        "fullName": " "
+    },
+    {
+        "name": "Ангола",
+        "english": "Angola",
+        "alpha2": "AO",
+        "alpha3": [
+            "AGO"
+        ],
+        "iso": "024",
+        "location": "Африка",
+        "locationPrecise": "Центральная Африка",
+        "fullName": "Республика Ангола"
+    },
+    {
+        "name": "Андорра",
+        "english": "Andorra",
+        "alpha2": "AD",
+        "alpha3": [
+            "AND"
+        ],
+        "iso": "020",
+        "location": "Европа",
+        "locationPrecise": "Южная Европа",
+        "fullName": "Княжество Андорра"
+    },
+    {
+        "name": "Антарктида",
+        "english": "Antarctica",
+        "alpha2": "AQ",
+        "alpha3": [
+            "ATA"
+        ],
+        "iso": "010",
+        "location": "Антарктика",
+        "locationPrecise": " ",
+        "fullName": " "
+    },
+    {
+        "name": "Антигуа и Барбуда",
+        "english": "Antigua and Barbuda",
+        "alpha2": "AG",
+        "alpha3": [
+            "ATG"
+        ],
+        "iso": "028",
+        "location": "Америка",
+        "locationPrecise": "Карибский бассейн",
+        "fullName": " "
+    },
+    {
+        "name": "Аргентина",
+        "english": "Argentina",
+        "alpha2": "AR",
+        "alpha3": [
+            "ARG"
+        ],
+        "iso": "032",
+        "location": "Америка",
+        "locationPrecise": "Южная Америка",
+        "fullName": "Аргентинская Республика"
+    },
+    {
+        "name": "Армения",
+        "english": "Armenia",
+        "alpha2": "AM",
+        "alpha3": [
+            "ARM"
+        ],
+        "iso": "051",
+        "location": "Азия",
+        "locationPrecise": "Западная Азия",
+        "fullName": "Республика Армения"
+    },
+    {
+        "name": "Аруба",
+        "english": "Aruba",
+        "alpha2": "AW",
+        "alpha3": [
+            "ABW"
+        ],
+        "iso": "533",
+        "location": "Америка",
+        "locationPrecise": "Карибский бассейн",
+        "fullName": " "
+    },
+    {
+        "name": "Афганистан",
+        "english": "Afghanistan",
+        "alpha2": "AF",
+        "alpha3": [
+            "AFG"
+        ],
+        "iso": "004",
+        "location": "Азия",
+        "locationPrecise": "Южная часть Центральной Азии",
+        "fullName": "Переходное Исламское Государство Афганистан"
+    },
+    {
+        "name": "Багамы",
+        "english": "Bahamas",
+        "alpha2": "BS",
+        "alpha3": [
+            "BHS"
+        ],
+        "iso": "044",
+        "location": "Америка",
+        "locationPrecise": "Карибский бассейн",
+        "fullName": "Содружество Багамы"
+    },
+    {
+        "name": "Бангладеш",
+        "english": "Bangladesh",
+        "alpha2": "BD",
+        "alpha3": [
+            "BGD"
+        ],
+        "iso": "050",
+        "location": "Азия",
+        "locationPrecise": "Южная часть Центральной Азии",
+        "fullName": "Народная Республика Бангладеш"
+    },
+    {
+        "name": "Барбадос",
+        "english": "Barbados",
+        "alpha2": "BB",
+        "alpha3": [
+            "BRB"
+        ],
+        "iso": "052",
+        "location": "Америка",
+        "locationPrecise": "Карибский бассейн",
+        "fullName": " "
+    },
+    {
+        "name": "Бахрейн",
+        "english": "Bahrain",
+        "alpha2": "BH",
+        "alpha3": [
+            "BHR"
+        ],
+        "iso": "048",
+        "location": "Азия",
+        "locationPrecise": "Западная Азия",
+        "fullName": "Королевство Бахрейн"
+    },
+    {
+        "name": "Беларусь",
+        "english": "Belarus",
+        "alpha2": "BY",
+        "alpha3": [
+            "BLR"
+        ],
+        "iso": "112",
+        "location": "Европа",
+        "locationPrecise": "Восточная Европа",
+        "fullName": "Республика Беларусь"
+    },
+    {
+        "name": "Белиз",
+        "english": "Belize",
+        "alpha2": "BZ",
+        "alpha3": [
+            "BLZ"
+        ],
+        "iso": "084",
+        "location": "Америка",
+        "locationPrecise": "Карибский бассейн",
+        "fullName": " "
+    },
+    {
+        "name": "Бельгия",
+        "english": "Belgium",
+        "alpha2": "BE",
+        "alpha3": [
+            "BEL"
+        ],
+        "iso": "056",
+        "location": "Европа",
+        "locationPrecise": "Западная Европа",
+        "fullName": "Королевство Бельгии"
+    },
+    {
+        "name": "Бенин",
+        "english": "Benin",
+        "alpha2": "BJ",
+        "alpha3": [
+            "BEN"
+        ],
+        "iso": "204",
+        "location": "Африка",
+        "locationPrecise": "Западная Африка",
+        "fullName": "Республика Бенин"
+    },
+    {
+        "name": "Бермуды",
+        "english": "Bermuda",
+        "alpha2": "BM",
+        "alpha3": [
+            "BMU"
+        ],
+        "iso": "060",
+        "location": "Америка",
+        "locationPrecise": "Северная Америка",
+        "fullName": " "
+    },
+    {
+        "name": "Болгария",
+        "english": "Bulgaria",
+        "alpha2": "BG",
+        "alpha3": [
+            "BGR"
+        ],
+        "iso": "100",
+        "location": "Европа",
+        "locationPrecise": "Восточная Европа",
+        "fullName": "Республика Болгария"
+    },
+    {
+        "name": "Боливия, Многонациональное Государство",
+        "english": "Bolivia, plurinational state of",
+        "alpha2": "BO",
+        "alpha3": [
+            "BOL"
+        ],
+        "iso": "068",
+        "location": "Америка",
+        "locationPrecise": "Южная Америка",
+        "fullName": "Многонациональное Государство Боливия"
+    },
+    {
+        "name": "Бонайре, Саба и Синт-Эстатиус",
+        "english": "Bonaire, Sint Eustatius and Saba",
+        "alpha2": "BQ",
+        "alpha3": [
+            "BES"
+        ],
+        "iso": "535",
+        "location": "Америка",
+        "locationPrecise": "Карибский бассейн",
+        "fullName": " "
+    },
+    {
+        "name": "Босния и Герцеговина",
+        "english": "Bosnia and Herzegovina",
+        "alpha2": "BA",
+        "alpha3": [
+            "BIH"
+        ],
+        "iso": "070",
+        "location": "Европа",
+        "locationPrecise": "Южная Европа",
+        "fullName": " "
+    },
+    {
+        "name": "Ботсвана",
+        "english": "Botswana",
+        "alpha2": "BW",
+        "alpha3": [
+            "BWA"
+        ],
+        "iso": "072",
+        "location": "Африка",
+        "locationPrecise": "Южная часть Африки",
+        "fullName": "Республика Ботсвана"
+    },
+    {
+        "name": "Бразилия",
+        "english": "Brazil",
+        "alpha2": "BR",
+        "alpha3": [
+            "BRA"
+        ],
+        "iso": "076",
+        "location": "Америка",
+        "locationPrecise": "Южная Америка",
+        "fullName": "Федеративная Республика Бразилия"
+    },
+    {
+        "name": "Британская территория в Индийском океане",
+        "english": "British Indian Ocean Territory",
+        "alpha2": "IO",
+        "alpha3": [
+            "IOT"
+        ],
+        "iso": "086",
+        "location": "Океания",
+        "locationPrecise": "Индийский океан",
+        "fullName": " "
+    },
+    {
+        "name": "Бруней-Даруссалам",
+        "english": "Brunei Darussalam",
+        "alpha2": "BN",
+        "alpha3": [
+            "BRN"
+        ],
+        "iso": "096",
+        "location": "Азия",
+        "locationPrecise": "Юго-Восточная Азия",
+        "fullName": " "
+    },
+    {
+        "name": "Буркина-Фасо",
+        "english": "Burkina Faso",
+        "alpha2": "BF",
+        "alpha3": [
+            "BFA"
+        ],
+        "iso": "854",
+        "location": "Африка",
+        "locationPrecise": "Западная Африка",
+        "fullName": " "
+    },
+    {
+        "name": "Бурунди",
+        "english": "Burundi",
+        "alpha2": "BI",
+        "alpha3": [
+            "BDI"
+        ],
+        "iso": "108",
+        "location": "Африка",
+        "locationPrecise": "Восточная Африка",
+        "fullName": "Республика Бурунди"
+    },
+    {
+        "name": "Бутан",
+        "english": "Bhutan",
+        "alpha2": "BT",
+        "alpha3": [
+            "BTN"
+        ],
+        "iso": "064",
+        "location": "Азия",
+        "locationPrecise": "Южная часть Центральной Азии",
+        "fullName": "Королевство Бутан"
+    },
+    {
+        "name": "Вануату",
+        "english": "Vanuatu",
+        "alpha2": "VU",
+        "alpha3": [
+            "VUT"
+        ],
+        "iso": "548",
+        "location": "Океания",
+        "locationPrecise": "Меланезия",
+        "fullName": "Республика Вануату"
+    },
+    {
+        "name": "Венгрия",
+        "english": "Hungary",
+        "alpha2": "HU",
+        "alpha3": [
+            "HUN"
+        ],
+        "iso": "348",
+        "location": "Европа",
+        "locationPrecise": "Восточная Европа",
+        "fullName": "Венгерская Республика"
+    },
+    {
+        "name": "Венесуэла Боливарианская Республика",
+        "english": "Venezuela",
+        "alpha2": "VE",
+        "alpha3": [
+            "VEN"
+        ],
+        "iso": "862",
+        "location": "Америка",
+        "locationPrecise": "Южная Америка",
+        "fullName": "Боливарийская Республика Венесуэла"
+    },
+    {
+        "name": "Виргинские острова, Британские",
+        "english": "Virgin Islands, British",
+        "alpha2": "VG",
+        "alpha3": [
+            "VGB"
+        ],
+        "iso": "092",
+        "location": "Америка",
+        "locationPrecise": "Карибский бассейн",
+        "fullName": "Британские Виргинские острова"
+    },
+    {
+        "name": "Виргинские острова, США",
+        "english": "Virgin Islands, U.S.",
+        "alpha2": "VI",
+        "alpha3": [
+            "VIR"
+        ],
+        "iso": "850",
+        "location": "Америка",
+        "locationPrecise": "Карибский бассейн",
+        "fullName": "Виргинские острова Соединенных Штатов"
+    },
+    {
+        "name": "Вьетнам",
+        "english": "Vietnam",
+        "alpha2": "VN",
+        "alpha3": [
+            "VNM"
+        ],
+        "iso": "704",
+        "location": "Азия",
+        "locationPrecise": "Юго-Восточная Азия",
+        "fullName": "Социалистическая Республика Вьетнам"
+    },
+    {
+        "name": "Габон",
+        "english": "Gabon",
+        "alpha2": "GA",
+        "alpha3": [
+            "GAB"
+        ],
+        "iso": "266",
+        "location": "Африка",
+        "locationPrecise": "Центральная Африка",
+        "fullName": "Габонская Республика"
+    },
+    {
+        "name": "Гаити",
+        "english": "Haiti",
+        "alpha2": "HT",
+        "alpha3": [
+            "HTI"
+        ],
+        "iso": "332",
+        "location": "Америка",
+        "locationPrecise": "Карибский бассейн",
+        "fullName": "Республика Гаити"
+    },
+    {
+        "name": "Гайана",
+        "english": "Guyana",
+        "alpha2": "GY",
+        "alpha3": [
+            "GUY"
+        ],
+        "iso": "328",
+        "location": "Америка",
+        "locationPrecise": "Южная Америка",
+        "fullName": "Республика Гайана"
+    },
+    {
+        "name": "Гамбия",
+        "english": "Gambia",
+        "alpha2": "GM",
+        "alpha3": [
+            "GMB"
+        ],
+        "iso": "270",
+        "location": "Африка",
+        "locationPrecise": "Западная Африка",
+        "fullName": "Республика Гамбия"
+    },
+    {
+        "name": "Гана",
+        "english": "Ghana",
+        "alpha2": "GH",
+        "alpha3": [
+            "GHA"
+        ],
+        "iso": "288",
+        "location": "Африка",
+        "locationPrecise": "Западная Африка",
+        "fullName": "Республика Гана"
+    },
+    {
+        "name": "Гваделупа",
+        "english": "Guadeloupe",
+        "alpha2": "GP",
+        "alpha3": [
+            "GLP"
+        ],
+        "iso": "312",
+        "location": "Америка",
+        "locationPrecise": "Карибский бассейн",
+        "fullName": " "
+    },
+    {
+        "name": "Гватемала",
+        "english": "Guatemala",
+        "alpha2": "GT",
+        "alpha3": [
+            "GTM"
+        ],
+        "iso": "320",
+        "location": "Америка",
+        "locationPrecise": "Центральная Америка",
+        "fullName": "Республика Гватемала"
+    },
+    {
+        "name": "Гвинея",
+        "english": "Guinea",
+        "alpha2": "GN",
+        "alpha3": [
+            "GIN"
+        ],
+        "iso": "324",
+        "location": "Африка",
+        "locationPrecise": "Западная Африка",
+        "fullName": "Гвинейская Республика"
+    },
+    {
+        "name": "Гвинея-Бисау",
+        "english": "Guinea-Bissau",
+        "alpha2": "GW",
+        "alpha3": [
+            "GNB"
+        ],
+        "iso": "624",
+        "location": "Африка",
+        "locationPrecise": "Западная Африка",
+        "fullName": "Республика Гвинея-Бисау"
+    },
+    {
+        "name": "Германия",
+        "english": "Germany",
+        "alpha2": "DE",
+        "alpha3": [
+            "DEU"
+        ],
+        "iso": "276",
+        "location": "Европа",
+        "locationPrecise": "Западная Европа",
+        "fullName": "Федеративная Республика Германия"
+    },
+    {
+        "name": "Гернси",
+        "english": "Guernsey",
+        "alpha2": "GG",
+        "alpha3": [
+            "GGY"
+        ],
+        "iso": "831",
+        "location": "Европа",
+        "locationPrecise": "Северная Европа",
+        "fullName": " "
+    },
+    {
+        "name": "Гибралтар",
+        "english": "Gibraltar",
+        "alpha2": "GI",
+        "alpha3": [
+            "GIB"
+        ],
+        "iso": "292",
+        "location": "Европа",
+        "locationPrecise": "Южная Европа",
+        "fullName": " "
+    },
+    {
+        "name": "Гондурас",
+        "english": "Honduras",
+        "alpha2": "HN",
+        "alpha3": [
+            "HND"
+        ],
+        "iso": "340",
+        "location": "Америка",
+        "locationPrecise": "Центральная Америка",
+        "fullName": "Республика Гондурас"
+    },
+    {
+        "name": "Гонконг",
+        "english": "Hong Kong",
+        "alpha2": "HK",
+        "alpha3": [
+            "HKG"
+        ],
+        "iso": "344",
+        "location": "Азия",
+        "locationPrecise": "Восточная Азия",
+        "fullName": "Специальный  административный  регион Китая Гонконг"
+    },
+    {
+        "name": "Гренада",
+        "english": "Grenada",
+        "alpha2": "GD",
+        "alpha3": [
+            "GRD"
+        ],
+        "iso": "308",
+        "location": "Америка",
+        "locationPrecise": "Карибский бассейн",
+        "fullName": " "
+    },
+    {
+        "name": "Гренландия",
+        "english": "Greenland",
+        "alpha2": "GL",
+        "alpha3": [
+            "GRL"
+        ],
+        "iso": "304",
+        "location": "Америка",
+        "locationPrecise": "Северная Америка",
+        "fullName": " "
+    },
+    {
+        "name": "Греция",
+        "english": "Greece",
+        "alpha2": "GR",
+        "alpha3": [
+            "GRC"
+        ],
+        "iso": "300",
+        "location": "Европа",
+        "locationPrecise": "Южная Европа",
+        "fullName": "Греческая Республика"
+    },
+    {
+        "name": "Грузия",
+        "english": "Georgia",
+        "alpha2": "GE",
+        "alpha3": [
+            "GEO"
+        ],
+        "iso": "268",
+        "location": "Азия",
+        "locationPrecise": "Западная Азия",
+        "fullName": " "
+    },
+    {
+        "name": "Гуам",
+        "english": "Guam",
+        "alpha2": "GU",
+        "alpha3": [
+            "GUM"
+        ],
+        "iso": "316",
+        "location": "Океания",
+        "locationPrecise": "Микронезия",
+        "fullName": " "
+    },
+    {
+        "name": "Дания",
+        "english": "Denmark",
+        "alpha2": "DK",
+        "alpha3": [
+            "DNK"
+        ],
+        "iso": "208",
+        "location": "Европа",
+        "locationPrecise": "Северная Европа",
+        "fullName": "Королевство Дания"
+    },
+    {
+        "name": "Джерси",
+        "english": "Jersey",
+        "alpha2": "JE",
+        "alpha3": [
+            "JEY"
+        ],
+        "iso": "832",
+        "location": "Европа",
+        "locationPrecise": "Северная Европа",
+        "fullName": " "
+    },
+    {
+        "name": "Джибути",
+        "english": "Djibouti",
+        "alpha2": "DJ",
+        "alpha3": [
+            "DJI"
+        ],
+        "iso": "262",
+        "location": "Африка",
+        "locationPrecise": "Восточная Африка",
+        "fullName": "Республика Джибути"
+    },
+    {
+        "name": "Доминика",
+        "english": "Dominica",
+        "alpha2": "DM",
+        "alpha3": [
+            "DMA"
+        ],
+        "iso": "212",
+        "location": "Америка",
+        "locationPrecise": "Карибский бассейн",
+        "fullName": "Содружество Доминики"
+    },
+    {
+        "name": "Доминиканская Республика",
+        "english": "Dominican Republic",
+        "alpha2": "DO",
+        "alpha3": [
+            "DOM"
+        ],
+        "iso": "214",
+        "location": "Америка",
+        "locationPrecise": "Карибский бассейн",
+        "fullName": " "
+    },
+    {
+        "name": "Египет",
+        "english": "Egypt",
+        "alpha2": "EG",
+        "alpha3": [
+            "EGY"
+        ],
+        "iso": "818",
+        "location": "Африка",
+        "locationPrecise": "Северная Африка",
+        "fullName": "Арабская Республика Египет"
+    },
+    {
+        "name": "Замбия",
+        "english": "Zambia",
+        "alpha2": "ZM",
+        "alpha3": [
+            "ZMB"
+        ],
+        "iso": "894",
+        "location": "Африка",
+        "locationPrecise": "Восточная Африка",
+        "fullName": "Республика Замбия"
+    },
+    {
+        "name": "Западная Сахара",
+        "english": "Western Sahara",
+        "alpha2": "EH",
+        "alpha3": [
+            "ESH"
+        ],
+        "iso": "732",
+        "location": "Африка",
+        "locationPrecise": "Северная Африка",
+        "fullName": " "
+    },
+    {
+        "name": "Зимбабве",
+        "english": "Zimbabwe",
+        "alpha2": "ZW",
+        "alpha3": [
+            "ZWE"
+        ],
+        "iso": "716",
+        "location": "Африка",
+        "locationPrecise": "Восточная Африка",
+        "fullName": "Республика Зимбабве"
+    },
+    {
+        "name": "Израиль",
+        "english": "Israel",
+        "alpha2": "IL",
+        "alpha3": [
+            "ISR"
+        ],
+        "iso": "376",
+        "location": "Азия",
+        "locationPrecise": "Западная Азия",
+        "fullName": "Государство Израиль"
+    },
+    {
+        "name": "Индия",
+        "english": "India",
+        "alpha2": "IN",
+        "alpha3": [
+            "IND"
+        ],
+        "iso": "356",
+        "location": "Азия",
+        "locationPrecise": "Южная часть Центральной Азии",
+        "fullName": "Республика Индия"
+    },
+    {
+        "name": "Индонезия",
+        "english": "Indonesia",
+        "alpha2": "ID",
+        "alpha3": [
+            "IDN"
+        ],
+        "iso": "360",
+        "location": "Азия",
+        "locationPrecise": "Юго-Восточная Азия",
+        "fullName": "Республика Индонезия"
+    },
+    {
+        "name": "Иордания",
+        "english": "Jordan",
+        "alpha2": "JO",
+        "alpha3": [
+            "JOR"
+        ],
+        "iso": "400",
+        "location": "Азия",
+        "locationPrecise": "Западная Азия",
+        "fullName": "Иорданское Хашимитское Королевство"
+    },
+    {
+        "name": "Ирак",
+        "english": "Iraq",
+        "alpha2": "IQ",
+        "alpha3": [
+            "IRQ"
+        ],
+        "iso": "368",
+        "location": "Азия",
+        "locationPrecise": "Западная Азия",
+        "fullName": "Республика Ирак"
+    },
+    {
+        "name": "Иран, Исламская Республика",
+        "english": "Iran, Islamic Republic of",
+        "alpha2": "IR",
+        "alpha3": [
+            "IRN"
+        ],
+        "iso": "364",
+        "location": "Азия",
+        "locationPrecise": "Южная часть Центральной Азии",
+        "fullName": "Исламская Республика Иран"
+    },
+    {
+        "name": "Ирландия",
+        "english": "Ireland",
+        "alpha2": "IE",
+        "alpha3": [
+            "IRL"
+        ],
+        "iso": "372",
+        "location": "Европа",
+        "locationPrecise": "Северная Европа",
+        "fullName": " "
+    },
+    {
+        "name": "Исландия",
+        "english": "Iceland",
+        "alpha2": "IS",
+        "alpha3": [
+            "ISL"
+        ],
+        "iso": "352",
+        "location": "Европа",
+        "locationPrecise": "Северная Европа",
+        "fullName": "Республика Исландия"
+    },
+    {
+        "name": "Испания",
+        "english": "Spain",
+        "alpha2": "ES",
+        "alpha3": [
+            "ESP"
+        ],
+        "iso": "724",
+        "location": "Европа",
+        "locationPrecise": "Южная Европа",
+        "fullName": "Королевство Испания"
+    },
+    {
+        "name": "Италия",
+        "english": "Italy",
+        "alpha2": "IT",
+        "alpha3": [
+            "ITA"
+        ],
+        "iso": "380",
+        "location": "Европа",
+        "locationPrecise": "Южная Европа",
+        "fullName": "Итальянская Республика"
+    },
+    {
+        "name": "Йемен",
+        "english": "Yemen",
+        "alpha2": "YE",
+        "alpha3": [
+            "YEM"
+        ],
+        "iso": "887",
+        "location": "Азия",
+        "locationPrecise": "Западная Азия",
+        "fullName": "Йеменская Республика"
+    },
+    {
+        "name": "Кабо-Верде",
+        "english": "Cape Verde",
+        "alpha2": "CV",
+        "alpha3": [
+            "CPV"
+        ],
+        "iso": "132",
+        "location": "Африка",
+        "locationPrecise": "Западная Африка",
+        "fullName": "Республика Кабо-Верде"
+    },
+    {
+        "name": "Казахстан",
+        "english": "Kazakhstan",
+        "alpha2": "KZ",
+        "alpha3": [
+            "KAZ"
+        ],
+        "iso": "398",
+        "location": "Азия",
+        "locationPrecise": "Южная часть Центральной Азии",
+        "fullName": "Республика Казахстан"
+    },
+    {
+        "name": "Камбоджа",
+        "english": "Cambodia",
+        "alpha2": "KH",
+        "alpha3": [
+            "KHM"
+        ],
+        "iso": "116",
+        "location": "Азия",
+        "locationPrecise": "Юго-Восточная Азия",
+        "fullName": "Королевство Камбоджа"
+    },
+    {
+        "name": "Камерун",
+        "english": "Cameroon",
+        "alpha2": "CM",
+        "alpha3": [
+            "CMR"
+        ],
+        "iso": "120",
+        "location": "Африка",
+        "locationPrecise": "Центральная Африка",
+        "fullName": "Республика Камерун"
+    },
+    {
+        "name": "Канада",
+        "english": "Canada",
+        "alpha2": "CA",
+        "alpha3": [
+            "CAN"
+        ],
+        "iso": "124",
+        "location": "Америка",
+        "locationPrecise": "Северная Америка",
+        "fullName": " "
+    },
+    {
+        "name": "Катар",
+        "english": "Qatar",
+        "alpha2": "QA",
+        "alpha3": [
+            "QAT"
+        ],
+        "iso": "634",
+        "location": "Азия",
+        "locationPrecise": "Западная Азия",
+        "fullName": "Государство Катар"
+    },
+    {
+        "name": "Кения",
+        "english": "Kenya",
+        "alpha2": "KE",
+        "alpha3": [
+            "KEN"
+        ],
+        "iso": "404",
+        "location": "Африка",
+        "locationPrecise": "Восточная Африка",
+        "fullName": "Республика Кения"
+    },
+    {
+        "name": "Кипр",
+        "english": "Cyprus",
+        "alpha2": "CY",
+        "alpha3": [
+            "CYP"
+        ],
+        "iso": "196",
+        "location": "Азия",
+        "locationPrecise": "Западная Азия",
+        "fullName": "Республика Кипр"
+    },
+    {
+        "name": "Киргизия",
+        "english": "Kyrgyzstan",
+        "alpha2": "KG",
+        "alpha3": [
+            "KGZ"
+        ],
+        "iso": "417",
+        "location": "Азия",
+        "locationPrecise": "Южная часть Центральной Азии",
+        "fullName": "Киргизская Республика"
+    },
+    {
+        "name": "Кирибати",
+        "english": "Kiribati",
+        "alpha2": "KI",
+        "alpha3": [
+            "KIR"
+        ],
+        "iso": "296",
+        "location": "Океания",
+        "locationPrecise": "Микронезия",
+        "fullName": "Республика Кирибати"
+    },
+    {
+        "name": "Китай",
+        "english": "China",
+        "alpha2": "CN",
+        "alpha3": [
+            "CHN"
+        ],
+        "iso": "156",
+        "location": "Азия",
+        "locationPrecise": "Восточная Азия",
+        "fullName": "Китайская Народная Республика"
+    },
+    {
+        "name": "Кокосовые (Килинг) острова",
+        "english": "Cocos (Keeling) Islands",
+        "alpha2": "CC",
+        "alpha3": [
+            "CCK"
+        ],
+        "iso": "166",
+        "location": "Океания",
+        "locationPrecise": "Индийский океан",
+        "fullName": " "
+    },
+    {
+        "name": "Колумбия",
+        "english": "Colombia",
+        "alpha2": "CO",
+        "alpha3": [
+            "COL"
+        ],
+        "iso": "170",
+        "location": "Америка",
+        "locationPrecise": "Южная Америка",
+        "fullName": "Республика Колумбия"
+    },
+    {
+        "name": "Коморы",
+        "english": "Comoros",
+        "alpha2": "KM",
+        "alpha3": [
+            "COM"
+        ],
+        "iso": "174",
+        "location": "Африка",
+        "locationPrecise": "Восточная Африка",
+        "fullName": "Союз Коморы"
+    },
+    {
+        "name": "Конго",
+        "english": "Congo",
+        "alpha2": "CG",
+        "alpha3": [
+            "COG"
+        ],
+        "iso": "178",
+        "location": "Африка",
+        "locationPrecise": "Центральная Африка",
+        "fullName": "Республика Конго"
+    },
+    {
+        "name": "Конго, Демократическая Республика",
+        "english": "Congo, Democratic Republic of the",
+        "alpha2": "CD",
+        "alpha3": [
+            "COD"
+        ],
+        "iso": "180",
+        "location": "Африка",
+        "locationPrecise": "Центральная Африка",
+        "fullName": "Демократическая Республика Конго"
+    },
+    {
+        "name": "Корея, Народно-Демократическая Республика",
+        "english": "Korea, Democratic People's republic of",
+        "alpha2": "KP",
+        "alpha3": [
+            "PRK"
+        ],
+        "iso": "408",
+        "location": "Азия",
+        "locationPrecise": "Восточная Азия",
+        "fullName": "Корейская Народно-Демократическая Республика"
+    },
+    {
+        "name": "Корея, Республика",
+        "english": "Korea, Republic of",
+        "alpha2": "KR",
+        "alpha3": [
+            "KOR"
+        ],
+        "iso": "410",
+        "location": "Азия",
+        "locationPrecise": "Восточная Азия",
+        "fullName": "Республика Корея"
+    },
+    {
+        "name": "Коста-Рика",
+        "english": "Costa Rica",
+        "alpha2": "CR",
+        "alpha3": [
+            "CRI"
+        ],
+        "iso": "188",
+        "location": "Америка",
+        "locationPrecise": "Центральная Америка",
+        "fullName": "Республика Коста-Рика"
+    },
+    {
+        "name": "Кот д'Ивуар",
+        "english": "Cote d'Ivoire",
+        "alpha2": "CI",
+        "alpha3": [
+            "CIV"
+        ],
+        "iso": "384",
+        "location": "Африка",
+        "locationPrecise": "Западная Африка",
+        "fullName": "Республика Кот д'Ивуар"
+    },
+    {
+        "name": "Куба",
+        "english": "Cuba",
+        "alpha2": "CU",
+        "alpha3": [
+            "CUB"
+        ],
+        "iso": "192",
+        "location": "Америка",
+        "locationPrecise": "Карибский бассейн",
+        "fullName": "Республика Куба"
+    },
+    {
+        "name": "Кувейт",
+        "english": "Kuwait",
+        "alpha2": "KW",
+        "alpha3": [
+            "KWT"
+        ],
+        "iso": "414",
+        "location": "Азия",
+        "locationPrecise": "Западная Азия",
+        "fullName": "Государство Кувейт"
+    },
+    {
+        "name": "Кюрасао",
+        "english": "Curaçao",
+        "alpha2": "CW",
+        "alpha3": [
+            "CUW"
+        ],
+        "iso": "531",
+        "location": "Америка",
+        "locationPrecise": "Карибский бассейн",
+        "fullName": " "
+    },
+    {
+        "name": "Лаос",
+        "english": "Lao People's Democratic Republic",
+        "alpha2": "LA",
+        "alpha3": [
+            "LAO"
+        ],
+        "iso": "418",
+        "location": "Азия",
+        "locationPrecise": "Юго-Восточная Азия",
+        "fullName": "Лаосская Народно-Демократическая Республика"
+    },
+    {
+        "name": "Латвия",
+        "english": "Latvia",
+        "alpha2": "LV",
+        "alpha3": [
+            "LVA"
+        ],
+        "iso": "428",
+        "location": "Европа",
+        "locationPrecise": "Северная Европа",
+        "fullName": "Латвийская Республика"
+    },
+    {
+        "name": "Лесото",
+        "english": "Lesotho",
+        "alpha2": "LS",
+        "alpha3": [
+            "LSO"
+        ],
+        "iso": "426",
+        "location": "Африка",
+        "locationPrecise": "Южная часть Африки",
+        "fullName": "Королевство Лесото"
+    },
+    {
+        "name": "Ливан",
+        "english": "Lebanon",
+        "alpha2": "LB",
+        "alpha3": [
+            "LBN"
+        ],
+        "iso": "422",
+        "location": "Азия",
+        "locationPrecise": "Западная Азия",
+        "fullName": "Ливанская Республика"
+    },
+    {
+        "name": "Ливийская Арабская Джамахирия",
+        "english": "Libyan Arab Jamahiriya",
+        "alpha2": "LY",
+        "alpha3": [
+            "LBY"
+        ],
+        "iso": "434",
+        "location": "Африка",
+        "locationPrecise": "Северная Африка",
+        "fullName": "Социалистическая Народная Ливийская Арабская Джамахирия"
+    },
+    {
+        "name": "Либерия",
+        "english": "Liberia",
+        "alpha2": "LR",
+        "alpha3": [
+            "LBR"
+        ],
+        "iso": "430",
+        "location": "Африка",
+        "locationPrecise": "Западная Африка",
+        "fullName": "Республика Либерия"
+    },
+    {
+        "name": "Лихтенштейн",
+        "english": "Liechtenstein",
+        "alpha2": "LI",
+        "alpha3": [
+            "LIE"
+        ],
+        "iso": "438",
+        "location": "Европа",
+        "locationPrecise": "Западная Европа",
+        "fullName": "Княжество Лихтенштейн"
+    },
+    {
+        "name": "Литва",
+        "english": "Lithuania",
+        "alpha2": "LT",
+        "alpha3": [
+            "LTU"
+        ],
+        "iso": "440",
+        "location": "Европа",
+        "locationPrecise": "Северная Европа",
+        "fullName": "Литовская Республика"
+    },
+    {
+        "name": "Люксембург",
+        "english": "Luxembourg",
+        "alpha2": "LU",
+        "alpha3": [
+            "LUX"
+        ],
+        "iso": "442",
+        "location": "Европа",
+        "locationPrecise": "Западная Европа",
+        "fullName": "Великое Герцогство Люксембург"
+    },
+    {
+        "name": "Маврикий",
+        "english": "Mauritius",
+        "alpha2": "MU",
+        "alpha3": [
+            "MUS"
+        ],
+        "iso": "480",
+        "location": "Африка",
+        "locationPrecise": "Восточная Африка",
+        "fullName": "Республика Маврикий"
+    },
+    {
+        "name": "Мавритания",
+        "english": "Mauritania",
+        "alpha2": "MR",
+        "alpha3": [
+            "MRT"
+        ],
+        "iso": "478",
+        "location": "Африка",
+        "locationPrecise": "Западная Африка",
+        "fullName": "Исламская Республика Мавритания"
+    },
+    {
+        "name": "Мадагаскар",
+        "english": "Madagascar",
+        "alpha2": "MG",
+        "alpha3": [
+            "MDG"
+        ],
+        "iso": "450",
+        "location": "Африка",
+        "locationPrecise": "Восточная Африка",
+        "fullName": "Республика Мадагаскар"
+    },
+    {
+        "name": "Майотта",
+        "english": "Mayotte",
+        "alpha2": "YT",
+        "alpha3": [
+            "MYT"
+        ],
+        "iso": "175",
+        "location": "Африка",
+        "locationPrecise": "Южная часть Африки",
+        "fullName": " "
+    },
+    {
+        "name": "Макао",
+        "english": "Macao",
+        "alpha2": "MO",
+        "alpha3": [
+            "MAC"
+        ],
+        "iso": "446",
+        "location": "Азия",
+        "locationPrecise": "Восточная Азия",
+        "fullName": "Специальный административный регион Китая Макао"
+    },
+    {
+        "name": "Малави",
+        "english": "Malawi",
+        "alpha2": "MW",
+        "alpha3": [
+            "MWI"
+        ],
+        "iso": "454",
+        "location": "Африка",
+        "locationPrecise": "Восточная Африка",
+        "fullName": "Республика Малави"
+    },
+    {
+        "name": "Малайзия",
+        "english": "Malaysia",
+        "alpha2": "MY",
+        "alpha3": [
+            "MYS"
+        ],
+        "iso": "458",
+        "location": "Азия",
+        "locationPrecise": "Юго-Восточная Азия",
+        "fullName": " "
+    },
+    {
+        "name": "Мали",
+        "english": "Mali",
+        "alpha2": "ML",
+        "alpha3": [
+            "MLI"
+        ],
+        "iso": "466",
+        "location": "Африка",
+        "locationPrecise": "Западная Африка",
+        "fullName": "Республика Мали"
+    },
+    {
+        "name": "Мальдивы",
+        "english": "Maldives",
+        "alpha2": "MV",
+        "alpha3": [
+            "MDV"
+        ],
+        "iso": "462",
+        "location": "Азия",
+        "locationPrecise": "Южная часть Центральной Азии",
+        "fullName": "Мальдивская Республика"
+    },
+    {
+        "name": "Мальта",
+        "english": "Malta",
+        "alpha2": "MT",
+        "alpha3": [
+            "MLT"
+        ],
+        "iso": "470",
+        "location": "Европа",
+        "locationPrecise": "Южная Европа",
+        "fullName": "Республика Мальта"
+    },
+    {
+        "name": "Марокко",
+        "english": "Morocco",
+        "alpha2": "MA",
+        "alpha3": [
+            "MAR"
+        ],
+        "iso": "504",
+        "location": "Африка",
+        "locationPrecise": "Северная Африка",
+        "fullName": "Королевство Марокко"
+    },
+    {
+        "name": "Мартиника",
+        "english": "Martinique",
+        "alpha2": "MQ",
+        "alpha3": [
+            "MTQ"
+        ],
+        "iso": "474",
+        "location": "Америка",
+        "locationPrecise": "Карибский бассейн",
+        "fullName": " "
+    },
+    {
+        "name": "Маршалловы острова",
+        "english": "Marshall Islands",
+        "alpha2": "MH",
+        "alpha3": [
+            "MHL"
+        ],
+        "iso": "584",
+        "location": "Океания",
+        "locationPrecise": "Микронезия",
+        "fullName": "Республика Маршалловы острова"
+    },
+    {
+        "name": "Мексика",
+        "english": "Mexico",
+        "alpha2": "MX",
+        "alpha3": [
+            "MEX"
+        ],
+        "iso": "484",
+        "location": "Америка",
+        "locationPrecise": "Центральная Америка",
+        "fullName": "Мексиканские Соединенные Штаты"
+    },
+    {
+        "name": "Микронезия, Федеративные Штаты",
+        "english": "Micronesia, Federated States of",
+        "alpha2": "FM",
+        "alpha3": [
+            "FSM"
+        ],
+        "iso": "583",
+        "location": "Океания",
+        "locationPrecise": "Микронезия",
+        "fullName": "Федеративные штаты Микронезии"
+    },
+    {
+        "name": "Мозамбик",
+        "english": "Mozambique",
+        "alpha2": "MZ",
+        "alpha3": [
+            "MOZ"
+        ],
+        "iso": "508",
+        "location": "Африка",
+        "locationPrecise": "Восточная Африка",
+        "fullName": "Республика Мозамбик"
+    },
+    {
+        "name": "Молдова, Республика",
+        "english": "Moldova",
+        "alpha2": "MD",
+        "alpha3": [
+            "MDA"
+        ],
+        "iso": "498",
+        "location": "Европа",
+        "locationPrecise": "Восточная Европа",
+        "fullName": "Республика Молдова"
+    },
+    {
+        "name": "Монако",
+        "english": "Monaco",
+        "alpha2": "MC",
+        "alpha3": [
+            "MCO"
+        ],
+        "iso": "492",
+        "location": "Европа",
+        "locationPrecise": "Западная Европа",
+        "fullName": "Княжество Монако"
+    },
+    {
+        "name": "Монголия",
+        "english": "Mongolia",
+        "alpha2": "MN",
+        "alpha3": [
+            "MNG"
+        ],
+        "iso": "496",
+        "location": "Азия",
+        "locationPrecise": "Восточная Азия",
+        "fullName": " "
+    },
+    {
+        "name": "Монтсеррат",
+        "english": "Montserrat",
+        "alpha2": "MS",
+        "alpha3": [
+            "MSR"
+        ],
+        "iso": "500",
+        "location": "Америка",
+        "locationPrecise": "Карибский бассейн",
+        "fullName": " "
+    },
+    {
+        "name": "Мьянма",
+        "english": "Myanmar",
+        "alpha2": "MM",
+        "alpha3": [
+            "MMR"
+        ],
+        "iso": "104",
+        "location": "Азия",
+        "locationPrecise": "Юго-Восточная Азия",
+        "fullName": "Союз Мьянма"
+    },
+    {
+        "name": "Намибия",
+        "english": "Namibia",
+        "alpha2": "NA",
+        "alpha3": [
+            "NAM"
+        ],
+        "iso": "516",
+        "location": "Африка",
+        "locationPrecise": "Южная часть Африки",
+        "fullName": "Республика Намибия"
+    },
+    {
+        "name": "Науру",
+        "english": "Nauru",
+        "alpha2": "NR",
+        "alpha3": [
+            "NRU"
+        ],
+        "iso": "520",
+        "location": "Океания",
+        "locationPrecise": "Микронезия",
+        "fullName": "Республика Науру"
+    },
+    {
+        "name": "Непал",
+        "english": "Nepal",
+        "alpha2": "NP",
+        "alpha3": [
+            "NPL"
+        ],
+        "iso": "524",
+        "location": "Азия",
+        "locationPrecise": "Южная часть Центральной Азии",
+        "fullName": "Федеративная Демократическая Республика Непал"
+    },
+    {
+        "name": "Нигер",
+        "english": "Niger",
+        "alpha2": "NE",
+        "alpha3": [
+            "NER"
+        ],
+        "iso": "562",
+        "location": "Африка",
+        "locationPrecise": "Западная Африка",
+        "fullName": "Республика Нигер"
+    },
+    {
+        "name": "Нигерия",
+        "english": "Nigeria",
+        "alpha2": "NG",
+        "alpha3": [
+            "NGA"
+        ],
+        "iso": "566",
+        "location": "Африка",
+        "locationPrecise": "Западная Африка",
+        "fullName": "Федеративная Республика Нигерия"
+    },
+    {
+        "name": "Нидерланды",
+        "english": "Netherlands",
+        "alpha2": "NL",
+        "alpha3": [
+            "NLD"
+        ],
+        "iso": "528",
+        "location": "Европа",
+        "locationPrecise": "Западная Европа",
+        "fullName": "Королевство Нидерландов"
+    },
+    {
+        "name": "Никарагуа",
+        "english": "Nicaragua",
+        "alpha2": "NI",
+        "alpha3": [
+            "NIC"
+        ],
+        "iso": "558",
+        "location": "Америка",
+        "locationPrecise": "Центральная Америка",
+        "fullName": "Республика Никарагуа"
+    },
+    {
+        "name": "Ниуэ",
+        "english": "Niue",
+        "alpha2": "NU",
+        "alpha3": [
+            "NIU"
+        ],
+        "iso": "570",
+        "location": "Океания",
+        "locationPrecise": "Полинезия",
+        "fullName": "Республика Ниуэ"
+    },
+    {
+        "name": "Новая Зеландия",
+        "english": "New Zealand",
+        "alpha2": "NZ",
+        "alpha3": [
+            "NZL"
+        ],
+        "iso": "554",
+        "location": "Океания",
+        "locationPrecise": "Австралия и Новая Зеландия",
+        "fullName": " "
+    },
+    {
+        "name": "Новая Каледония",
+        "english": "New Caledonia",
+        "alpha2": "NC",
+        "alpha3": [
+            "NCL"
+        ],
+        "iso": "540",
+        "location": "Океания",
+        "locationPrecise": "Меланезия",
+        "fullName": " "
+    },
+    {
+        "name": "Норвегия",
+        "english": "Norway",
+        "alpha2": "NO",
+        "alpha3": [
+            "NOR"
+        ],
+        "iso": "578",
+        "location": "Европа",
+        "locationPrecise": "Северная Европа",
+        "fullName": "Королевство Норвегия"
+    },
+    {
+        "name": "Объединенные Арабские Эмираты",
+        "english": "United Arab Emirates",
+        "alpha2": "AE",
+        "alpha3": [
+            "ARE"
+        ],
+        "iso": "784",
+        "location": "Азия",
+        "locationPrecise": "Западная Азия",
+        "fullName": " "
+    },
+    {
+        "name": "Оман",
+        "english": "Oman",
+        "alpha2": "OM",
+        "alpha3": [
+            "OMN"
+        ],
+        "iso": "512",
+        "location": "Азия",
+        "locationPrecise": "Западная Азия",
+        "fullName": "Султанат Оман"
+    },
+    {
+        "name": "Остров Буве",
+        "english": "Bouvet Island",
+        "alpha2": "BV",
+        "alpha3": [
+            "BVT"
+        ],
+        "iso": "074",
+        "location": " ",
+        "locationPrecise": "Южный океан",
+        "fullName": " "
+    },
+    {
+        "name": "Остров Мэн",
+        "english": "Isle of Man",
+        "alpha2": "IM",
+        "alpha3": [
+            "IMN"
+        ],
+        "iso": "833",
+        "location": "Европа",
+        "locationPrecise": "Северная Европа",
+        "fullName": " "
+    },
+    {
+        "name": "Остров Норфолк",
+        "english": "Norfolk Island",
+        "alpha2": "NF",
+        "alpha3": [
+            "NFK"
+        ],
+        "iso": "574",
+        "location": "Океания",
+        "locationPrecise": "Австралия и Новая Зеландия",
+        "fullName": " "
+    },
+    {
+        "name": "Остров Рождества",
+        "english": "Christmas Island",
+        "alpha2": "CX",
+        "alpha3": [
+            "CXR"
+        ],
+        "iso": "162",
+        "location": "Азия",
+        "locationPrecise": "Индийский океан",
+        "fullName": " "
+    },
+    {
+        "name": "Остров Херд и острова Макдональд",
+        "english": "Heard Island and McDonald Islands",
+        "alpha2": "HM",
+        "alpha3": [
+            "HMD"
+        ],
+        "iso": "334",
+        "location": " ",
+        "locationPrecise": "Индийский океан",
+        "fullName": " "
+    },
+    {
+        "name": "Острова Кайман",
+        "english": "Cayman Islands",
+        "alpha2": "KY",
+        "alpha3": [
+            "CYM"
+        ],
+        "iso": "136",
+        "location": "Америка",
+        "locationPrecise": "Карибский бассейн",
+        "fullName": " "
+    },
+    {
+        "name": "Острова Кука",
+        "english": "Cook Islands",
+        "alpha2": "CK",
+        "alpha3": [
+            "COK"
+        ],
+        "iso": "184",
+        "location": "Океания",
+        "locationPrecise": "Полинезия",
+        "fullName": " "
+    },
+    {
+        "name": "Острова Теркс и Кайкос",
+        "english": "Turks and Caicos Islands",
+        "alpha2": "TC",
+        "alpha3": [
+            "TCA"
+        ],
+        "iso": "796",
+        "location": "Америка",
+        "locationPrecise": "Карибский бассейн",
+        "fullName": " "
+    },
+    {
+        "name": "Пакистан",
+        "english": "Pakistan",
+        "alpha2": "PK",
+        "alpha3": [
+            "PAK"
+        ],
+        "iso": "586",
+        "location": "Азия",
+        "locationPrecise": "Южная часть Центральной Азии",
+        "fullName": "Исламская Республика Пакистан"
+    },
+    {
+        "name": "Палау",
+        "english": "Palau",
+        "alpha2": "PW",
+        "alpha3": [
+            "PLW"
+        ],
+        "iso": "585",
+        "location": "Океания",
+        "locationPrecise": "Микронезия",
+        "fullName": "Республика Палау"
+    },
+    {
+        "name": "Палестинская территория, оккупированная",
+        "english": "Palestinian Territory, Occupied",
+        "alpha2": "PS",
+        "alpha3": [
+            "PSE"
+        ],
+        "iso": "275",
+        "location": "Азия",
+        "locationPrecise": "Западная Азия",
+        "fullName": "Оккупированная Палестинская территория"
+    },
+    {
+        "name": "Панама",
+        "english": "Panama",
+        "alpha2": "PA",
+        "alpha3": [
+            "PAN"
+        ],
+        "iso": "591",
+        "location": "Америка",
+        "locationPrecise": "Центральная Америка",
+        "fullName": "Республика Панама"
+    },
+    {
+        "name": "Ватикан",
+        "english": "Holy See (Vatican City State)",
+        "alpha2": "VA",
+        "alpha3": [
+            "VAT"
+        ],
+        "iso": "336",
+        "location": "Европа",
+        "locationPrecise": "Южная Европа",
+        "fullName": "Папский Престол (Государство — город Ватикан)"
+    },
+    {
+        "name": "Папуа-Новая Гвинея",
+        "english": "Papua New Guinea",
+        "alpha2": "PG",
+        "alpha3": [
+            "PNG"
+        ],
+        "iso": "598",
+        "location": "Океания",
+        "locationPrecise": "Меланезия",
+        "fullName": " "
+    },
+    {
+        "name": "Парагвай",
+        "english": "Paraguay",
+        "alpha2": "PY",
+        "alpha3": [
+            "PRY"
+        ],
+        "iso": "600",
+        "location": "Америка",
+        "locationPrecise": "Южная Америка",
+        "fullName": "Республика Парагвай"
+    },
+    {
+        "name": "Перу",
+        "english": "Peru",
+        "alpha2": "PE",
+        "alpha3": [
+            "PER"
+        ],
+        "iso": "604",
+        "location": "Америка",
+        "locationPrecise": "Южная Америка",
+        "fullName": "Республика Перу"
+    },
+    {
+        "name": "Питкерн",
+        "english": "Pitcairn",
+        "alpha2": "PN",
+        "alpha3": [
+            "PCN"
+        ],
+        "iso": "612",
+        "location": "Океания",
+        "locationPrecise": "Полинезия",
+        "fullName": " "
+    },
+    {
+        "name": "Польша",
+        "english": "Poland",
+        "alpha2": "PL",
+        "alpha3": [
+            "POL"
+        ],
+        "iso": "616",
+        "location": "Европа",
+        "locationPrecise": "Восточная Европа",
+        "fullName": "Республика Польша"
+    },
+    {
+        "name": "Португалия",
+        "english": "Portugal",
+        "alpha2": "PT",
+        "alpha3": [
+            "PRT"
+        ],
+        "iso": "620",
+        "location": "Европа",
+        "locationPrecise": "Южная Европа",
+        "fullName": "Португальская Республика"
+    },
+    {
+        "name": "Пуэрто-Рико",
+        "english": "Puerto Rico",
+        "alpha2": "PR",
+        "alpha3": [
+            "PRI"
+        ],
+        "iso": "630",
+        "location": "Америка",
+        "locationPrecise": "Карибский бассейн",
+        "fullName": " "
+    },
+    {
+        "name": "Республика Македония",
+        "english": "Macedonia, The Former Yugoslav Republic Of",
+        "alpha2": "MK",
+        "alpha3": [
+            "MKD"
+        ],
+        "iso": "807",
+        "location": "Европа",
+        "locationPrecise": "Южная Европа",
+        "fullName": " "
+    },
+    {
+        "name": "Реюньон",
+        "english": "Reunion",
+        "alpha2": "RE",
+        "alpha3": [
+            "REU"
+        ],
+        "iso": "638",
+        "location": "Африка",
+        "locationPrecise": "Восточная Африка",
+        "fullName": " "
+    },
+    {
+        "name": "Россия",
+        "english": "Russian Federation",
+        "alpha2": "RU",
+        "alpha3": [
+            "RUS"
+        ],
+        "iso": "643",
+        "location": "Европа",
+        "locationPrecise": "Восточная Европа",
+        "fullName": "Российская Федерация"
+    },
+    {
+        "name": "Руанда",
+        "english": "Rwanda",
+        "alpha2": "RW",
+        "alpha3": [
+            "RWA"
+        ],
+        "iso": "646",
+        "location": "Африка",
+        "locationPrecise": "Восточная Африка",
+        "fullName": "Руандийская Республика"
+    },
+    {
+        "name": "Румыния",
+        "english": "Romania",
+        "alpha2": "RO",
+        "alpha3": [
+            "ROU"
+        ],
+        "iso": "642",
+        "location": "Европа",
+        "locationPrecise": "Восточная Европа",
+        "fullName": " "
+    },
+    {
+        "name": "Самоа",
+        "english": "Samoa",
+        "alpha2": "WS",
+        "alpha3": [
+            "WSM"
+        ],
+        "iso": "882",
+        "location": "Океания",
+        "locationPrecise": "Полинезия",
+        "fullName": "Независимое Государство Самоа"
+    },
+    {
+        "name": "Сан-Марино",
+        "english": "San Marino",
+        "alpha2": "SM",
+        "alpha3": [
+            "SMR"
+        ],
+        "iso": "674",
+        "location": "Европа",
+        "locationPrecise": "Южная Европа",
+        "fullName": "Республика Сан-Марино"
+    },
+    {
+        "name": "Сан-Томе и Принсипи",
+        "english": "Sao Tome and Principe",
+        "alpha2": "ST",
+        "alpha3": [
+            "STP"
+        ],
+        "iso": "678",
+        "location": "Африка",
+        "locationPrecise": "Центральная Африка",
+        "fullName": "Демократическая Республика Сан-Томе и Принсипи"
+    },
+    {
+        "name": "Саудовская Аравия",
+        "english": "Saudi Arabia",
+        "alpha2": "SA",
+        "alpha3": [
+            "SAU"
+        ],
+        "iso": "682",
+        "location": "Азия",
+        "locationPrecise": "Западная Азия",
+        "fullName": "Королевство Саудовская Аравия"
+    },
+    {
+        "name": "Свазиленд",
+        "english": "Swaziland",
+        "alpha2": "SZ",
+        "alpha3": [
+            "SWZ"
+        ],
+        "iso": "748",
+        "location": "Африка",
+        "locationPrecise": "Южная часть Африки",
+        "fullName": "Королевство Свазиленд"
+    },
+    {
+        "name": "Святая Елена, Остров вознесения, Тристан-да-Кунья",
+        "english": "Saint Helena, Ascension And Tristan Da Cunha",
+        "alpha2": "SH",
+        "alpha3": [
+            "SHN"
+        ],
+        "iso": "654",
+        "location": "Африка",
+        "locationPrecise": "Западная Африка",
+        "fullName": " "
+    },
+    {
+        "name": "Северные Марианские острова",
+        "english": "Northern Mariana Islands",
+        "alpha2": "MP",
+        "alpha3": [
+            "MNP"
+        ],
+        "iso": "580",
+        "location": "Океания",
+        "locationPrecise": "Микронезия",
+        "fullName": "Содружество Северных Марианских островов"
+    },
+    {
+        "name": "Сен-Бартельми",
+        "english": "Saint Barthélemy",
+        "alpha2": "BL",
+        "alpha3": [
+            "BLM"
+        ],
+        "iso": "652",
+        "location": "Америка",
+        "locationPrecise": "Карибский бассейн",
+        "fullName": " "
+    },
+    {
+        "name": "Сен-Мартен",
+        "english": "Saint Martin (French Part)",
+        "alpha2": "MF",
+        "alpha3": [
+            "MAF"
+        ],
+        "iso": "663",
+        "location": "Америка",
+        "locationPrecise": "Карибский бассейн",
+        "fullName": " "
+    },
+    {
+        "name": "Сенегал",
+        "english": "Senegal",
+        "alpha2": "SN",
+        "alpha3": [
+            "SEN"
+        ],
+        "iso": "686",
+        "location": "Африка",
+        "locationPrecise": "Западная Африка",
+        "fullName": "Республика Сенегал"
+    },
+    {
+        "name": "Сент-Винсент и Гренадины",
+        "english": "Saint Vincent and the Grenadines",
+        "alpha2": "VC",
+        "alpha3": [
+            "VCT"
+        ],
+        "iso": "670",
+        "location": "Америка",
+        "locationPrecise": "Карибский бассейн",
+        "fullName": " "
+    },
+    {
+        "name": "Сент-Люсия",
+        "english": "Saint Lucia",
+        "alpha2": "LC",
+        "alpha3": [
+            "LCA"
+        ],
+        "iso": "662",
+        "location": "Америка",
+        "locationPrecise": "Карибский бассейн",
+        "fullName": " "
+    },
+    {
+        "name": "Сент-Китс и Невис",
+        "english": "Saint Kitts and Nevis",
+        "alpha2": "KN",
+        "alpha3": [
+            "KNA"
+        ],
+        "iso": "659",
+        "location": "Америка",
+        "locationPrecise": "Карибский бассейн",
+        "fullName": " "
+    },
+    {
+        "name": "Сент-Пьер и Микелон",
+        "english": "Saint Pierre and Miquelon",
+        "alpha2": "PM",
+        "alpha3": [
+            "SPM"
+        ],
+        "iso": "666",
+        "location": "Америка",
+        "locationPrecise": "Северная Америка",
+        "fullName": " "
+    },
+    {
+        "name": "Сербия",
+        "english": "Serbia",
+        "alpha2": "RS",
+        "alpha3": [
+            "SRB"
+        ],
+        "iso": "688",
+        "location": "Европа",
+        "locationPrecise": "Южная Европа",
+        "fullName": "Республика Сербия"
+    },
+    {
+        "name": "Сейшелы",
+        "english": "Seychelles",
+        "alpha2": "SC",
+        "alpha3": [
+            "SYC"
+        ],
+        "iso": "690",
+        "location": "Африка",
+        "locationPrecise": "Восточная Африка",
+        "fullName": "Республика Сейшелы"
+    },
+    {
+        "name": "Сингапур",
+        "english": "Singapore",
+        "alpha2": "SG",
+        "alpha3": [
+            "SGP"
+        ],
+        "iso": "702",
+        "location": "Азия",
+        "locationPrecise": "Юго-Восточная Азия",
+        "fullName": "Республика Сингапур"
+    },
+    {
+        "name": "Синт-Мартен",
+        "english": "Sint Maarten",
+        "alpha2": "SX",
+        "alpha3": [
+            "SXM"
+        ],
+        "iso": "534",
+        "location": "Америка",
+        "locationPrecise": "Карибский бассейн",
+        "fullName": " "
+    },
+    {
+        "name": "Сирийская Арабская Республика",
+        "english": "Syrian Arab Republic",
+        "alpha2": "SY",
+        "alpha3": [
+            "SYR"
+        ],
+        "iso": "760",
+        "location": "Азия",
+        "locationPrecise": "Западная Азия",
+        "fullName": " "
+    },
+    {
+        "name": "Словакия",
+        "english": "Slovakia",
+        "alpha2": "SK",
+        "alpha3": [
+            "SVK"
+        ],
+        "iso": "703",
+        "location": "Европа",
+        "locationPrecise": "Восточная Европа",
+        "fullName": "Словацкая Республика"
+    },
+    {
+        "name": "Словения",
+        "english": "Slovenia",
+        "alpha2": "SI",
+        "alpha3": [
+            "SVN"
+        ],
+        "iso": "705",
+        "location": "Европа",
+        "locationPrecise": "Южная Европа",
+        "fullName": "Республика Словения"
+    },
+    {
+        "name": "Соединенное Королевство",
+        "english": "United Kingdom",
+        "alpha2": "GB",
+        "alpha3": [
+            "GBR"
+        ],
+        "iso": "826",
+        "location": "Европа",
+        "locationPrecise": "Северная Европа",
+        "fullName": "Соединенное Королевство Великобритании и Северной Ирландии"
+    },
+    {
+        "name": "Соединенные Штаты",
+        "english": "United States",
+        "alpha2": "US",
+        "alpha3": [
+            "USA"
+        ],
+        "iso": "840",
+        "location": "Америка",
+        "locationPrecise": "Северная Америка",
+        "fullName": "Соединенные Штаты Америки"
+    },
+    {
+        "name": "Соломоновы острова",
+        "english": "Solomon Islands",
+        "alpha2": "SB",
+        "alpha3": [
+            "SLB"
+        ],
+        "iso": "090",
+        "location": "Океания",
+        "locationPrecise": "Меланезия",
+        "fullName": " "
+    },
+    {
+        "name": "Сомали",
+        "english": "Somalia",
+        "alpha2": "SO",
+        "alpha3": [
+            "SOM"
+        ],
+        "iso": "706",
+        "location": "Африка",
+        "locationPrecise": "Восточная Африка",
+        "fullName": "Сомалийская Республика"
+    },
+    {
+        "name": "Судан",
+        "english": "Sudan",
+        "alpha2": "SD",
+        "alpha3": [
+            "SDN"
+        ],
+        "iso": "729",
+        "location": "Африка",
+        "locationPrecise": "Северная Африка",
+        "fullName": "Республика Судан"
+    },
+    {
+        "name": "Суринам",
+        "english": "Suriname",
+        "alpha2": "SR",
+        "alpha3": [
+            "SUR"
+        ],
+        "iso": "740",
+        "location": "Америка",
+        "locationPrecise": "Южная Америка",
+        "fullName": "Республика Суринам"
+    },
+    {
+        "name": "Сьерра-Леоне",
+        "english": "Sierra Leone",
+        "alpha2": "SL",
+        "alpha3": [
+            "SLE"
+        ],
+        "iso": "694",
+        "location": "Африка",
+        "locationPrecise": "Западная Африка",
+        "fullName": "Республика Сьерра-Леоне"
+    },
+    {
+        "name": "Таджикистан",
+        "english": "Tajikistan",
+        "alpha2": "TJ",
+        "alpha3": [
+            "TJK"
+        ],
+        "iso": "762",
+        "location": "Азия",
+        "locationPrecise": "Южная часть Центральной Азии",
+        "fullName": "Республика Таджикистан"
+    },
+    {
+        "name": "Таиланд",
+        "english": "Thailand",
+        "alpha2": "TH",
+        "alpha3": [
+            "THA"
+        ],
+        "iso": "764",
+        "location": "Азия",
+        "locationPrecise": "Юго-Восточная Азия",
+        "fullName": "Королевство Таиланд"
+    },
+    {
+        "name": "Тайвань (Китай)",
+        "english": "Taiwan, Province of China",
+        "alpha2": "TW",
+        "alpha3": [
+            "TWN"
+        ],
+        "iso": "158",
+        "location": "Азия",
+        "locationPrecise": "Восточная Азия",
+        "fullName": " "
+    },
+    {
+        "name": "Танзания, Объединенная Республика",
+        "english": "Tanzania, United Republic Of",
+        "alpha2": "TZ",
+        "alpha3": [
+            "TZA"
+        ],
+        "iso": "834",
+        "location": "Африка",
+        "locationPrecise": "Восточная Африка",
+        "fullName": "Объединенная Республика Танзания"
+    },
+    {
+        "name": "Тимор-Лесте",
+        "english": "Timor-Leste",
+        "alpha2": "TL",
+        "alpha3": [
+            "TLS"
+        ],
+        "iso": "626",
+        "location": "Азия",
+        "locationPrecise": "Юго-Восточная Азия",
+        "fullName": "Демократическая Республика Тимор-Лесте"
+    },
+    {
+        "name": "Того",
+        "english": "Togo",
+        "alpha2": "TG",
+        "alpha3": [
+            "TGO"
+        ],
+        "iso": "768",
+        "location": "Африка",
+        "locationPrecise": "Западная Африка",
+        "fullName": "Тоголезская Республика"
+    },
+    {
+        "name": "Токелау",
+        "english": "Tokelau",
+        "alpha2": "TK",
+        "alpha3": [
+            "TKL"
+        ],
+        "iso": "772",
+        "location": "Океания",
+        "locationPrecise": "Полинезия",
+        "fullName": " "
+    },
+    {
+        "name": "Тонга",
+        "english": "Tonga",
+        "alpha2": "TO",
+        "alpha3": [
+            "TON"
+        ],
+        "iso": "776",
+        "location": "Океания",
+        "locationPrecise": "Полинезия",
+        "fullName": "Королевство Тонга"
+    },
+    {
+        "name": "Тринидад и Тобаго",
+        "english": "Trinidad and Tobago",
+        "alpha2": "TT",
+        "alpha3": [
+            "TTO"
+        ],
+        "iso": "780",
+        "location": "Америка",
+        "locationPrecise": "Карибский бассейн",
+        "fullName": "Республика Тринидад и Тобаго"
+    },
+    {
+        "name": "Тувалу",
+        "english": "Tuvalu",
+        "alpha2": "TV",
+        "alpha3": [
+            "TUV"
+        ],
+        "iso": "798",
+        "location": "Океания",
+        "locationPrecise": "Полинезия",
+        "fullName": " "
+    },
+    {
+        "name": "Тунис",
+        "english": "Tunisia",
+        "alpha2": "TN",
+        "alpha3": [
+            "TUN"
+        ],
+        "iso": "788",
+        "location": "Африка",
+        "locationPrecise": "Северная Африка",
+        "fullName": "Тунисская Республика"
+    },
+    {
+        "name": "Туркмения",
+        "english": "Turkmenistan",
+        "alpha2": "TM",
+        "alpha3": [
+            "TKM"
+        ],
+        "iso": "795",
+        "location": "Азия",
+        "locationPrecise": "Южная часть Центральной Азии",
+        "fullName": "Туркменистан"
+    },
+    {
+        "name": "Турция",
+        "english": "Turkey",
+        "alpha2": "TR",
+        "alpha3": [
+            "TUR"
+        ],
+        "iso": "792",
+        "location": "Азия",
+        "locationPrecise": "Западная Азия",
+        "fullName": "Турецкая Республика"
+    },
+    {
+        "name": "Уганда",
+        "english": "Uganda",
+        "alpha2": "UG",
+        "alpha3": [
+            "UGA"
+        ],
+        "iso": "800",
+        "location": "Африка",
+        "locationPrecise": "Восточная Африка",
+        "fullName": "Республика Уганда"
+    },
+    {
+        "name": "Узбекистан",
+        "english": "Uzbekistan",
+        "alpha2": "UZ",
+        "alpha3": [
+            "UZB"
+        ],
+        "iso": "860",
+        "location": "Азия",
+        "locationPrecise": "Южная часть Центральной Азии",
+        "fullName": "Республика Узбекистан"
+    },
+    {
+        "name": "Украина",
+        "english": "Ukraine",
+        "alpha2": "UA",
+        "alpha3": [
+            "UKR"
+        ],
+        "iso": "804",
+        "location": "Европа",
+        "locationPrecise": "Восточная Европа",
+        "fullName": " "
+    },
+    {
+        "name": "Уоллис и Футуна",
+        "english": "Wallis and Futuna",
+        "alpha2": "WF",
+        "alpha3": [
+            "WLF"
+        ],
+        "iso": "876",
+        "location": "Океания",
+        "locationPrecise": "Полинезия",
+        "fullName": " "
+    },
+    {
+        "name": "Уругвай",
+        "english": "Uruguay",
+        "alpha2": "UY",
+        "alpha3": [
+            "URY"
+        ],
+        "iso": "858",
+        "location": "Америка",
+        "locationPrecise": "Южная Америка",
+        "fullName": "Восточная Республика Уругвай"
+    },
+    {
+        "name": "Фарерские острова",
+        "english": "Faroe Islands",
+        "alpha2": "FO",
+        "alpha3": [
+            "FRO"
+        ],
+        "iso": "234",
+        "location": "Европа",
+        "locationPrecise": "Северная Европа",
+        "fullName": " "
+    },
+    {
+        "name": "Фиджи",
+        "english": "Fiji",
+        "alpha2": "FJ",
+        "alpha3": [
+            "FJI"
+        ],
+        "iso": "242",
+        "location": "Океания",
+        "locationPrecise": "Меланезия",
+        "fullName": "Республика островов Фиджи"
+    },
+    {
+        "name": "Филиппины",
+        "english": "Philippines",
+        "alpha2": "PH",
+        "alpha3": [
+            "PHL"
+        ],
+        "iso": "608",
+        "location": "Азия",
+        "locationPrecise": "Юго-Восточная Азия",
+        "fullName": "Республика Филиппины"
+    },
+    {
+        "name": "Финляндия",
+        "english": "Finland",
+        "alpha2": "FI",
+        "alpha3": [
+            "FIN"
+        ],
+        "iso": "246",
+        "location": "Европа",
+        "locationPrecise": "Северная Европа",
+        "fullName": "Финляндская Республика"
+    },
+    {
+        "name": "Фолклендские острова (Мальвинские)",
+        "english": "Falkland Islands (Malvinas)",
+        "alpha2": "FK",
+        "alpha3": [
+            "FLK"
+        ],
+        "iso": "238",
+        "location": "Америка",
+        "locationPrecise": "Южная Америка",
+        "fullName": " "
+    },
+    {
+        "name": "Франция",
+        "english": "France",
+        "alpha2": "FR",
+        "alpha3": [
+            "FRA"
+        ],
+        "iso": "250",
+        "location": "Европа",
+        "locationPrecise": "Западная Европа",
+        "fullName": "Французская Республика"
+    },
+    {
+        "name": "Французская Гвиана",
+        "english": "French Guiana",
+        "alpha2": "GF",
+        "alpha3": [
+            "GUF"
+        ],
+        "iso": "254",
+        "location": "Америка",
+        "locationPrecise": "Южная Америка",
+        "fullName": " "
+    },
+    {
+        "name": "Французская Полинезия",
+        "english": "French Polynesia",
+        "alpha2": "PF",
+        "alpha3": [
+            "PYF"
+        ],
+        "iso": "258",
+        "location": "Океания",
+        "locationPrecise": "Полинезия",
+        "fullName": " "
+    },
+    {
+        "name": "Французские Южные территории",
+        "english": "French Southern Territories",
+        "alpha2": "TF",
+        "alpha3": [
+            "ATF"
+        ],
+        "iso": "260",
+        "location": " ",
+        "locationPrecise": "Индийский океан",
+        "fullName": " "
+    },
+    {
+        "name": "Хорватия",
+        "english": "Croatia",
+        "alpha2": "HR",
+        "alpha3": [
+            "HRV"
+        ],
+        "iso": "191",
+        "location": "Европа",
+        "locationPrecise": "Южная Европа",
+        "fullName": "Республика Хорватия"
+    },
+    {
+        "name": "Центрально-Африканская Республика",
+        "english": "Central African Republic",
+        "alpha2": "CF",
+        "alpha3": [
+            "CAF"
+        ],
+        "iso": "140",
+        "location": "Африка",
+        "locationPrecise": "Центральная Африка",
+        "fullName": " "
+    },
+    {
+        "name": "Чад",
+        "english": "Chad",
+        "alpha2": "TD",
+        "alpha3": [
+            "TCD"
+        ],
+        "iso": "148",
+        "location": "Африка",
+        "locationPrecise": "Центральная Африка",
+        "fullName": "Республика Чад"
+    },
+    {
+        "name": "Черногория",
+        "english": "Montenegro",
+        "alpha2": "ME",
+        "alpha3": [
+            "MNE"
+        ],
+        "iso": "499",
+        "location": "Европа",
+        "locationPrecise": "Южная Европа",
+        "fullName": "Республика Черногория"
+    },
+    {
+        "name": "Чешская Республика",
+        "english": "Czech Republic",
+        "alpha2": "CZ",
+        "alpha3": [
+            "CZE"
+        ],
+        "iso": "203",
+        "location": "Европа",
+        "locationPrecise": "Восточная Европа",
+        "fullName": " "
+    },
+    {
+        "name": "Чили",
+        "english": "Chile",
+        "alpha2": "CL",
+        "alpha3": [
+            "CHL"
+        ],
+        "iso": "152",
+        "location": "Америка",
+        "locationPrecise": "Южная Америка",
+        "fullName": "Республика Чили"
+    },
+    {
+        "name": "Швейцария",
+        "english": "Switzerland",
+        "alpha2": "CH",
+        "alpha3": [
+            "CHE"
+        ],
+        "iso": "756",
+        "location": "Европа",
+        "locationPrecise": "Западная Европа",
+        "fullName": "Швейцарская Конфедерация"
+    },
+    {
+        "name": "Швеция",
+        "english": "Sweden",
+        "alpha2": "SE",
+        "alpha3": [
+            "SWE"
+        ],
+        "iso": "752",
+        "location": "Европа",
+        "locationPrecise": "Северная Европа",
+        "fullName": "Королевство Швеция"
+    },
+    {
+        "name": "Шпицберген и Ян Майен",
+        "english": "Svalbard and Jan Mayen",
+        "alpha2": "SJ",
+        "alpha3": [
+            "SJM"
+        ],
+        "iso": "744",
+        "location": "Европа",
+        "locationPrecise": "Северная Европа",
+        "fullName": " "
+    },
+    {
+        "name": "Шри-Ланка",
+        "english": "Sri Lanka",
+        "alpha2": "LK",
+        "alpha3": [
+            "LKA"
+        ],
+        "iso": "144",
+        "location": "Азия",
+        "locationPrecise": "Южная часть Центральной Азии",
+        "fullName": "Демократическая Социалистическая Республика Шри-Ланка"
+    },
+    {
+        "name": "Эквадор",
+        "english": "Ecuador",
+        "alpha2": "EC",
+        "alpha3": [
+            "ECU"
+        ],
+        "iso": "218",
+        "location": "Америка",
+        "locationPrecise": "Южная Америка",
+        "fullName": "Республика Эквадор"
+    },
+    {
+        "name": "Экваториальная Гвинея",
+        "english": "Equatorial Guinea",
+        "alpha2": "GQ",
+        "alpha3": [
+            "GNQ"
+        ],
+        "iso": "226",
+        "location": "Африка",
+        "locationPrecise": "Центральная Африка",
+        "fullName": "Республика Экваториальная Гвинея"
+    },
+    {
+        "name": "Эландские острова",
+        "english": "Åland Islands",
+        "alpha2": "AX",
+        "alpha3": [
+            "ALA"
+        ],
+        "iso": "248",
+        "location": "Европа",
+        "locationPrecise": "Северная Европа",
+        "fullName": " "
+    },
+    {
+        "name": "Эль-Сальвадор",
+        "english": "El Salvador",
+        "alpha2": "SV",
+        "alpha3": [
+            "SLV"
+        ],
+        "iso": "222",
+        "location": "Америка",
+        "locationPrecise": "Центральная Америка",
+        "fullName": "Республика Эль-Сальвадор"
+    },
+    {
+        "name": "Эритрея",
+        "english": "Eritrea",
+        "alpha2": "ER",
+        "alpha3": [
+            "ERI"
+        ],
+        "iso": "232",
+        "location": "Африка",
+        "locationPrecise": "Восточная Африка",
+        "fullName": " "
+    },
+    {
+        "name": "Эстония",
+        "english": "Estonia",
+        "alpha2": "EE",
+        "alpha3": [
+            "EST"
+        ],
+        "iso": "233",
+        "location": "Европа",
+        "locationPrecise": "Северная Европа",
+        "fullName": "Эстонская Республика"
+    },
+    {
+        "name": "Эфиопия",
+        "english": "Ethiopia",
+        "alpha2": "ET",
+        "alpha3": [
+            "ETH"
+        ],
+        "iso": "231",
+        "location": "Африка",
+        "locationPrecise": "Восточная Африка",
+        "fullName": "Федеративная Демократическая Республика Эфиопия"
+    },
+    {
+        "name": "Южная Африка",
+        "english": "South Africa",
+        "alpha2": "ZA",
+        "alpha3": [
+            "ZAF"
+        ],
+        "iso": "710",
+        "location": "Африка",
+        "locationPrecise": "Южная часть Африки",
+        "fullName": "Южно-Африканская Республика"
+    },
+    {
+        "name": "Южная Джорджия и Южные Сандвичевы острова",
+        "english": "South Georgia and the South Sandwich Islands",
+        "alpha2": "GS",
+        "alpha3": [
+            "SGS"
+        ],
+        "iso": "239",
+        "location": " ",
+        "locationPrecise": "Южный океан",
+        "fullName": " "
+    },
+    {
+        "name": "Южный Судан",
+        "english": "South Sudan",
+        "alpha2": "SS",
+        "alpha3": [
+            "SSD"
+        ],
+        "iso": "728",
+        "location": "Африка",
+        "locationPrecise": "Северная Африка",
+        "fullName": " "
+    },
+    {
+        "name": "Ямайка",
+        "english": "Jamaica",
+        "alpha2": "JM",
+        "alpha3": [
+            "JAM"
+        ],
+        "iso": "388",
+        "location": "Америка",
+        "locationPrecise": "Карибский бассейн",
+        "fullName": " "
+    },
+    {
+        "name": "Япония",
+        "english": "Japan",
+        "alpha2": "JP",
+        "alpha3": [
+            "JPN"
+        ],
+        "iso": "392",
+        "location": "Азия",
+        "locationPrecise": "Восточная Азия",
+        "fullName": " "
+    }
+]
