@@ -75,7 +75,7 @@ class Session {
         if(this.region){
             this.currentCountry = countries.getRandomCountry(this.region);
         } else {
-            this.this.currentCountry = countries.getRandomCountry();
+            this.currentCountry = countries.getRandomCountry();
         }
     }
 }
@@ -91,6 +91,8 @@ client.on('ready', () => {
     client.user.setActivity('-flags help');
 })
 
+SKIP_COMMANDS = ['skip', 'next', 'скип', 'некст', 'дальше', 'далее', '>>', 'ЮЮ']
+
 client.on('message', message => {
     if(message.author.bot) return;
     if(!message.content.startsWith(PREFIX)) {
@@ -101,8 +103,15 @@ client.on('message', message => {
                 message.reply('ВЕРНО! Вот новый флаг', { files: [ session.getImage() ] });
                 
             } else {
-                message.reply('неверно');
+                if(SKIP_COMMANDS.indexOf(message.content) != -1) {
+                    let ans = session.skip();
+                    message.reply(ans + '. Вот новый флаг:', { files: [ session.getImage() ] });
+                }  else {
+                    message.reply('неверно');
+                }
             }
+
+                   
         }
     }
 
@@ -131,9 +140,6 @@ client.on('message', message => {
                 message.channel.send('Итак, начнем. Что это за флаг?', { files: [ session.getImage() ] })
                 sessions.set(message.channel.id, session);
             }
-
-            
-            
         }
     } else if(command == 'skip') {
         let session = sessions.get(message.channel.id);
