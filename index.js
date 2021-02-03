@@ -14,8 +14,6 @@ class Player {
     }
 }
 
-console.log(__dirname);
-
 class Session {
     constructor(channelId) {
         this.players = new Map();
@@ -44,15 +42,7 @@ class Session {
     }
 
     getImage() {
-        
-        let src = `./3x2/${this.currentCountry.alpha2}.svg`
-
-        return new Promise(function(resolve, reject){
-            s2i(src, function(error, buffer) {
-                if(error) reject(error)
-                resolve(buffer);
-            });
-        }); 
+        return this.currentCountry.flagImage;
     }
 
     guess(ans, playerId) {
@@ -78,12 +68,10 @@ class Session {
     skip() {
         let country = this.currentCountry.name + '';
         this._next();
-        console.log(this.currentCountry);
         return 'На самом деле это ' + country;
     }
 
     _next() {
-        console.log(this.region);
         if(this.region){
             this.currentCountry = countries.getRandomCountry(this.region);
         } else {
@@ -110,7 +98,8 @@ client.on('message', message => {
         if(session) {
             let ans = session.guess(message.content, message.author.username + '#' + message.author.discriminator);
             if(ans) {
-                session.getImage().then(image => message.reply('ВЕРНО! Вот новый флаг: ', { files: [ image ] }));
+                message.reply('ВЕРНО! Вот новый флаг', { files: [ session.getImage() ] });
+                
             } else {
                 message.reply('неверно');
             }
@@ -139,7 +128,7 @@ client.on('message', message => {
                 message.reply(ans.message);
                 session.stop();
             } else {
-                session.getImage().then(image => message.channel.send('Итак, начнем. Что это за флаг?', { files: [ image ] }));
+                message.channel.send('Итак, начнем. Что это за флаг?', { files: [ session.getImage() ] })
                 sessions.set(message.channel.id, session);
             }
 
@@ -150,10 +139,8 @@ client.on('message', message => {
         let session = sessions.get(message.channel.id);
         if(session) {
             let ans = session.skip();
-            
-            session.getImage().then(image => {
-                return message.reply(ans + '. Вот новый флаг:', { files: [ image ] })
-            })
+            message.reply(ans + '. Вот новый флаг:', { files: [ session.getImage() ] });
+           
             
         } else {
             message.reply('Сессия не создана');
@@ -161,7 +148,6 @@ client.on('message', message => {
     } else if(command == 'stop') {
         let session = sessions.get(message.channel.id);
         if(session) {
-            // message.reply('победитель')
             let ans = session.stop();
             message.reply(ans);
             sessions.delete(message.channel.id);
